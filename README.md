@@ -1,10 +1,5 @@
 # PUBGMOVIEDELETER
 
-
-(WILL BE UPDATED)
-
-
-
 A program i coded at 3am because i could not sleep ;)
 
 Deletes the pubg movies so you dont have to everytime.
