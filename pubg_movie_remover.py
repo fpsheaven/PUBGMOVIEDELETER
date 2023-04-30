@@ -2,7 +2,6 @@ import os
 import time
 import webbrowser
 import shutil
-shutil.rmtree("C:\movie_remover") 
 print ("Welcome to PUBG MOVIE remover. Follow the steps below.")
 if os.path.exists("C:\movie_remover") == 0:
     os.mkdir("C:\movie_remover")
